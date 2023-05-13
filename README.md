@@ -1,2 +1,2 @@
-# sem2_Meca
+# sem2_AlexBizoi
 Project2
